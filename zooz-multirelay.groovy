@@ -4,8 +4,8 @@
  *
  *  Author:
  *    Kevin LaFramboise (krlaframboise) xxxx 
- *	  VoThanhMinh update  v1.4.1
- *	Documentation: https://community.smartthings.com/t/release-zooz-multirelay-zen16/181057
+ *    VoThanhMinh update  v1.4.1
+ *    Documentation: https://community.smartthings.com/t/release-zooz-multirelay-zen16/181057
  *
  *  Changelog:
  *
